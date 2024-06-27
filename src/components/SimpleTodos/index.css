@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.simpleTodo-container {
+  background-color: #ffc2a0;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.list-container {
+  text-align: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 50px;
+}
+.simpleTodo-head{
+  color: #ff8542;
+}

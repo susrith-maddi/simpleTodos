@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.delete {
+  background-color: transparent;
+  color: red;
+  border: 2px solid red;
+  width: 75px;
+  height: 25px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
